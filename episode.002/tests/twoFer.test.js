@@ -1,5 +1,5 @@
 import { expect } from 'chai'
-import twoFer from '../src/twoFer'
+import  twoFer  from '../src/twoFer'
 
 describe(':: twoFer', () => {
   it('twoFer()', () => {
