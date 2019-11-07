@@ -1,4 +1,4 @@
-# Codeflix // e011
+# Codeflix // e014 // Gigasecond
 
 ## <a name='TOC'>Summary</a>
 
@@ -8,11 +8,9 @@
 
 ## <a name='objectives'>Objectives</a>
 
-Implement a clock that handles times without dates.
+Given a moment, determine the moment that would be after a gigasecond has passed.
 
-You should be able to add and subtract minutes to it.
-
-Two clocks that represent the same time should be equal to each other.
+A gigasecond is 10^9 (1,000,000,000) seconds.
 
 ## <a name='usage'>Usage</a>
 

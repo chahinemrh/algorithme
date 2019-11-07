@@ -1,4 +1,4 @@
-# Codeflix // e011
+# Codeflix // e016 // Reverse String
 
 ## <a name='TOC'>Summary</a>
 
@@ -8,11 +8,9 @@
 
 ## <a name='objectives'>Objectives</a>
 
-Implement a clock that handles times without dates.
+Reverse a string
 
-You should be able to add and subtract minutes to it.
-
-Two clocks that represent the same time should be equal to each other.
+For example: input: "cool" output: "looc"
 
 ## <a name='usage'>Usage</a>
 

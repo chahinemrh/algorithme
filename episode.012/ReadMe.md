@@ -1,4 +1,4 @@
-# Codeflix // e011
+# Codeflix // e012 // Word Count
 
 ## <a name='TOC'>Summary</a>
 
@@ -8,11 +8,16 @@
 
 ## <a name='objectives'>Objectives</a>
 
-Implement a clock that handles times without dates.
+Given a phrase, count the occurrences of each word in that phrase.
 
-You should be able to add and subtract minutes to it.
+For example for the input "olly olly in come free"
 
-Two clocks that represent the same time should be equal to each other.
+```
+olly: 2
+in: 1
+come: 1
+free: 1
+```
 
 ## <a name='usage'>Usage</a>
 

@@ -1,4 +1,4 @@
-# Codeflix // e011
+# Codeflix // e013 // Difference Of Squares
 
 ## <a name='TOC'>Summary</a>
 
@@ -8,11 +8,15 @@
 
 ## <a name='objectives'>Objectives</a>
 
-Implement a clock that handles times without dates.
+Find the difference between the square of the sum and the sum of the squares of the first N natural numbers.
 
-You should be able to add and subtract minutes to it.
+The square of the sum of the first ten natural numbers is (1 + 2 + ... + 10)² = 55² = 3025.
 
-Two clocks that represent the same time should be equal to each other.
+The sum of the squares of the first ten natural numbers is 1² + 2² + ... + 10² = 385.
+
+Hence the difference between the square of the sum of the first ten natural numbers and the sum of the squares of the first ten natural numbers is 3025 - 385 = 2640.
+
+You are not expected to discover an efficient solution to this yourself from first principles; research is allowed, indeed, encouraged. Finding the best algorithm for the problem is a key skill in software engineering.
 
 ## <a name='usage'>Usage</a>
 
